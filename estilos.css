@@ -1,0 +1,33 @@
+/* Regras para cada bloco <div> */
+.bloco-principal {
+background-color: #2b1d2c;
+color: #f5f0f5;
+font-family: Arial, sans-serif;
+margin: 20px;
+padding: 20px;
+}
+
+/* Alterar a cor e o tipo de letra dos títulos (h1, h2, h3) */
+h1, h2, h3 {
+color: #d9534f;
+font-family: Georgia, serif;
+}
+
+/* Classe de destaque para aplicar a um parágrafo */
+.destaque {
+background-color: #4a2e4b;
+margin: 15px;
+padding: 10px;
+}
+
+/*
+1. Desafio Técnico: Qual foi a regra CSS mais difícil de aplicar e como conseguiste superar essa dificuldade?
+R: A aplicação correta de seletores de classe e indentação dos blocos div, superada testando e verificando os nomes exatos das classes no HTML e CSS.
+
+2. Correção de Sintaxe: Durante os teus testes no browser, detetaste com certeza algum erro que te tenha obrigado a voltar ao Notepad++ para corrigir. Qual foi o teu erro mais comum?
+R: Esquecimento de fechar chaves ({ }) ou pontos e vírgulas (;) nas regras de estilização CSS.
+
+3. Autoria: Escolhe apenas um dos atributos que usaste (href ou src) e explica pelas tuas próprias palavras, num único parágrafo, para que serve.
+R: O atributo href serve para especificar o destino de uma hiperligação, permitindo conectar a nossa página web a outros sites externos ou ficheiros do projeto.
+*/
+
